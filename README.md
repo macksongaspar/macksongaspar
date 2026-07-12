@@ -72,8 +72,9 @@ My journey combines software, AI, and robotics with a clear goal: building syste
 
 <br>
 
-- **OBA — Brazilian Astronomy and Astronautics Olympiad** — bronze medal
-- **Mandacaru de Matemática 2024** — silver medal
+- **Mandacaru Math Olympiad 2024** — Silver Medal
+- **Brazilian Astronomy and Astronautics Olympiad (OBA) 2024** — Bronze Medal
+- **OBMEP (Brazilian Public School Math Olympiad) 2021** — Honorable Mention
 
 </details>
 
